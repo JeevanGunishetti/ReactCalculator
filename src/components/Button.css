@@ -1,0 +1,17 @@
+.button-wrapper{
+  display:flex;
+  justify-content: center;
+  align-items: center;
+  height:100px;
+  width:100px;
+  font-size: 1.4em;
+  background: lightgrey;
+  color:white;
+  outline: 1px solid lightgrey;
+  felx :1;
+  margin: 2px;
+}
+
+.operator{
+  background: lightblue;
+}
